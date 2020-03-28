@@ -15,7 +15,7 @@ public class Principal
         c3 = new Carro(333, "KA", "Ford");
         System.out.print("\n Número de carros: " +
                 Carro.mostrarTotalDeCarros());
-        System.out.print("\n FIM");
+        System.out.print("\n FIM \n");
     }
     
 }
